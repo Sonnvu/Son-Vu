@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonnvu
+- 👋 Hi, I’m @Son Vu
 - 👀 I’m interested in technology, specifically creating things from code
 - 🌱 I’m currently pursuing a Computer Engineering degree at the University of Pittsburgh
 
